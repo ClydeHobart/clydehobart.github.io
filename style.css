@@ -1,0 +1,31 @@
+.h3_top_nav
+{
+  color: #2674f2;
+}
+.li_top_nav
+{
+  float: left;
+}
+.li_a_top_nav
+{
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+#top_nav
+{
+  background-color: #c0c0c0;
+}
+#ul_top_nav
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#home_icon
+{
+  width: 50px;
+}
