@@ -2,59 +2,88 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" style>
   <head>
     <style>
-    .h3_top_nav
-    {
-      color: #2674f2;
-    }
-    .img_nav
-    {
-      height: 50px;
-    }
-    .li_top_nav
-    {
-      float: left;
-    }
-    .li_a_top_nav
-    {
-      display: block;
-      color: #2674f2;
-      text-align: center;
-      text-decoration: none;
-    }
-    #top_nav
-    {
-      background-color: #c0c0c0;
-    }
-    #ul_top_nav
-    {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-    }
+      body
+      {
+        margin: 0px;
+      }
+      h1, h2, h3, h4, h5, h6
+      {
+        font-family: sans-serif;
+      }
+      table, tbody, tr, td
+      {
+        border-collapse: collapse;
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+        border-spacing: 0px;
+      }
+      td
+      {
+        height: 50px;
+        margin: 0px;
+        padding: 0px;
+      }
+      .img_nav
+      {
+        height: 50px;
+      }
+      .a_top_nav
+      {
+        text-decoration: none;
+      }
+      .td_top_nav
+      {
+        color: #2674f2;
+        margin: 0px;
+      }
+      .td_top_nav_divider
+      {
+        color: white;
+        margin: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 40px;
+      }
+      #top_nav
+      {
+        background-color: #c0c0c0;
+      }
     </style>
   </head>
   <body>
     <header>
       <nav id="top_nav">
-        <ul id="ul_top_nav" style="list-style-type: none; overflow: hidden;">
-          <li class="li_top_nav" style="float: left">
-            <a class="li_a_top_nav"href="./">
-              <img class="img_nav" src="resources/home_icon.png"/>
-            </a>
-          </li>
-          <li class="li_top_nav" style="float: left">
-            <a class="li_a_top_nav" href="./">
-              <img class="img_nav" src="resources/zeke_baker_written.png"/>
-            </a>
-          </li>
-          <li class="li_top_nav"style="float: left"><h2> | </h2></li>
-          <li class="li_top_nav" style="float: left">
-            <a class="li_a_top_nav"href="./">
-              <h3 class="h3_top_nav">About</h3>
-            </a>
-          </li>
-        </ul>
+        <table>
+          <tr>
+            <td>
+              <a href="./">
+                <img class="img_nav" src="resources/home_icon.png"/>
+              </a>
+            </td>
+            <td>
+              <a href="./">
+                <img class="img_nav" src="resources/zeke_baker_written.png"/>
+              </a>
+            </td>
+            <td>
+              <h1 class="td_top_nav_divider">/</h1>
+            </td>
+            <td>
+              <a class="a_top_nav" href="./">
+                <h2 class="td_top_nav">About Me</h2>
+              </a>
+            </td>
+            <td>
+              <h1 class="td_top_nav_divider">/</h1>
+            </td>
+            <td>
+              <a class="a_top_nav" href="./">
+                <h2 class="td_top_nav">My Work</h2>
+              </a>
+            </td>
+          </tr>
+        </table>
       </nav>
     </header>
   </body>
