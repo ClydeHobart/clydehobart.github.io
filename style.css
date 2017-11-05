@@ -41,7 +41,25 @@ td
   padding-right: 10px;
   font-size: 40px;
 }
+.max_height
+{
+  height: 100%;
+}
+.max_width
+{
+  width: 100%;
+}
 #top_nav
 {
   background-color: #c0c0c0;
+}
+#table_spiral
+{
+  display: block;
+  height: 792px;
+  width: 1280px;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #808080
 }
