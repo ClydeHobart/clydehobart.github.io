@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "VR Chess"
+date:   2019-11-19 18:00:00 -0500
+categories: jekyll update
+---
+
+# VR Chess
+
+[![`/assets/vrChess.png`](/assets/vrChess.png)](https://youtu.be/x5DBjpZb5EQ)
+
+## Details:
+* Framework: **Unity**
+* Language: **C#**
+* Hardware: **Oculus Quest**
+
+This was the culminating project for my AR and VR development course, colloquially titled "DXR" for "Dartmouth XR." My team of 2 developers (including myself) and 2 designers assembled this VR take on the classic board game over the course of three to four weeks. Using Photon Unity Networking, the game let's two players see Oculus Avatar models of each other and play a game of chess against each other in a large spectator arena. In addition to little things here and there, I personally worked on implementing an AI which kicks in when there's only one player on the network. This AI uses a min-max algorithm with alpha-beta pruning that's restructured to process iteratively instead of recursively, since the latter puts too much calculation in a single frame. Though having another calculation thread would be ideal, the closest thing to threads that Unity supports is Coroutines, which is what this AI utilizes.
