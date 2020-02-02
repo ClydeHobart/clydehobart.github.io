@@ -138,10 +138,6 @@ To switch to a better SEO tags however, one should install [Jekyll SEO Tag](http
 
 3. Replace with the following, the `<!-- jekyll-seo-tag -->` comment in your site's `default.html`:
 
-      ```liquid
-      {% seo %}
-      ```
-
 For more information about configuring this plugin, see the official [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) page.
 
 
