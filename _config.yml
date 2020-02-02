@@ -25,6 +25,7 @@ github:
 #   username: lorepirri
 
 plugins:
+  - jekyll
   - jekyll-target-blank
 
 target-blank:
