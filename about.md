@@ -23,10 +23,11 @@ I'm currently a senior majoring in computer science and engineering at Dartmouth
 * I'm a big fan of twisty puzzles (the family of puzzles to which the Rubik's Cube belongs).
 
 ## Some of my favorite video games, in order of what I've played most recently:
-* Red Dead Redemption 2
-* Minecraft
-* Call of Duty: Black Ops
-* Halo Reach
-* Fallout 4
+* *Red Dead Redemption 2*
+* *Minecraft*
+* *Call of Duty: Black Ops*
+* *Halo Reach*
+* *Fallout 4*
+* *Saints Row 2*
 
 [Go to the Home Page]({{ '/' | absolute_url }})
