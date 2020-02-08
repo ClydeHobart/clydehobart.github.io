@@ -404,6 +404,11 @@ a {
   color: $blockquote-text-color;
 }
 
+.site-footer-credits-centered {
+  color: $blockquote-text-color;
+  vertical-align: top;
+}
+
 .site-footer {
 
   @include large {

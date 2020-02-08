@@ -11,7 +11,7 @@ order: 0
     <img src="/assets/about/Baker_Zeke_Headshot_16x9_small.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
 </div>
 
-I'm currently a senior majoring in computer science and engineering at Dartmouth College, in Hanover, NH. I have a strong passion for video games, problem solving, and creative expression, so it's been my goal for the past 8 years to be a game programmer. Despite not yet having much experience developing games, my knack for learning and creative drive have helped me pick up a menagerie of programming skills, many of which can be leveraged for game development. If you want to learn more these skills specifically, check out my [résumé](/assets/about/Baker_Zeke_Resume.pdf)!
+I'm currently a senior majoring in computer science and engineering at Dartmouth College, in Hanover, NH. I have a strong passion for video games, problem solving, and creative expression, so it's been my goal for the past 8 years to be a game programmer. My knack for learning and creative drive have helped me pick up a menagerie of programming skills, many of which can be leveraged for game development. If you want to learn more these skills specifically, check out my [resume](/assets/about/Baker_Zeke_Resume.pdf)!
 
 ## Some fun facts about me, in no particular order:
 * In the photo above, I'm standing in front of Dartmouth's **Baker** Library (no relation).
@@ -29,5 +29,8 @@ I'm currently a senior majoring in computer science and engineering at Dartmouth
 * *Halo Reach*
 * *Fallout 4*
 * *Saints Row 2*
+
+## A brief history of "ClydeHobart"
+Around 2010, a friend and I were theorizing about a hypothetical situation where Justin Bieber had changed his name to "Justin Bieber" to aid his rise to stardom, and we were brainstorming some potential birth names, and "Clyde Hobart" was suggested. I latched on to the name, not for any particular affinity to Justin Bieber, but just since tweens are always looking for a "cool" new pseudonym/alias/username in this digital age that we live in, and thus ClydeHobart was born. Aside from being my GitHub username (hence "clydehobart.github.io"), it's also my username for a grand plethora of sites/apps/games.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
