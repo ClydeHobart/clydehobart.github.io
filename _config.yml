@@ -14,6 +14,9 @@ cayman-blog:
 
 theme: # leave it empty
 
+# Build settings
+# markdown: kramdown
+
 # social
 author: "Zeke Baker"
 # image: /thumbnail-jumbo.png
@@ -30,5 +33,5 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about']
+header_page_refs: ['now', 'about', 'code-samples']
 # header_page_refs: ['now', 'about', 'contact']
