@@ -7,7 +7,7 @@ ref: code-samples
 order: 0
 ---
 
-Here are some samples of code I've written for various projects. For more details on individual projects, check out the posts [on my homepage]({{ '/' | absolute_url }})
+For more details on individual projects, check out the posts on my [homepage]({{ '/' | absolute_url }}), or check out my [GitHub]({{ site.github.owner_url }}).
 
 ## Contents
 * [`solutionGenerator.py`](#solutiongeneratorpy)
