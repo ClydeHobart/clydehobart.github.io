@@ -7,6 +7,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem "jekyll", "~> 3.8", ">= 3.8.6" #4.0.0"
+gem "nokogiri", ">= 1.10.8"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # gem "jekyll-theme-cayman-blog" #, "~> 3.3"
