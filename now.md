@@ -7,11 +7,14 @@ ref: now
 order: 2
 ---
 
-I'm currently in my second-last quarter of my undergraduate program at Dartmouth College, taking a [course on computer architecture](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-51) and the first of two courses which constitute [my culminating experience](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-98-01) as a computer science major. For this culminating experience, my team is working on an asymmetrical 2-player, spy-themed VR & AR game, title TBD.
+Hmm, what's the best way to describe what's going on in my life? As I imagine is the same case as anybody seeing this, I'm currently in quarantine at home in Franklin, WI, taking classes for my last term of my undergraduate program through Dartmouth College, based in Hanover, NH. This term I'm taking [an asynchronous class on the constitutional rights of women](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-32-03) and the second of two courses which constitute my [my culminating experience](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-98-02) as a computer science experience. My team, with members working from each timezone of the continental US, is working on an asymmetrical 2-player, spy-themed, VR & mobile game, currently titled "SpyXR" (we recently pivoted from implementing AR as well).
 
-Aside from spending my spare time applying for jobs, I'm also a member of the Glee Club, which rehearses for a few hours every week. We have a small concert in mid-February, and then a large one with the Dartmouth Symphony Orchestra and Handel Society in late May. I'm currently the Music Director of my a cappella group, the Dartmouth Brovertones, which is a huge source of entertainment in my life.
+Normally on campus I participate in a variety of co-curricular activities, most of which revolve around singing or speaking Spanish, but now almost all of this has been reduced to just online chats once a week or so :worried: .
 
-Nothing's completely official yet, but it currently seems that I'm going to be in Cusco, Peru, for 10 weeks this fall as the Director's Assistant on a [Dartmouth Language Study Abroad Plus Program](https://guarini.dartmouth.edu/programs/spanish-lsa-cuzco), which is super exciting!
+While this is subject to change, as many projections into the near future are prone to nowadays, I'm currently set to be the Director's Assistant on the [Dartmouth Language Study Abroad Plus Program](https://guarini.dartmouth.edu/programs/spanish-lsa-cuzco) in (the northern hemisphere's) fall of this year. While this opportunity is a blessing, I'm cautious to get too excited over it given the current situation.
+
+— Zeke Baker
+2020-04-06 19:24
 
 This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
 
