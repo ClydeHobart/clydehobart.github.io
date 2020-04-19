@@ -2,7 +2,7 @@
 layout: page
 title: Code Samples
 tagline: Some examples of code I've written for various projects
-permalink: /code-samples.html
+permalink: /code-samples
 ref: code-samples
 order: 0
 ---
@@ -548,7 +548,7 @@ if __name__== "__main__":
     bfs()
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ## `OH_BOI_BasicChessAI.cs`
 
@@ -825,7 +825,7 @@ public class OH_BOI_BasicChessAI : MonoBehaviour
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ## Roguelike Procedural Generation Scripts
 
@@ -852,7 +852,7 @@ namespace RoguelikePG {
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ### `Door.cs`
 
@@ -889,7 +889,7 @@ namespace RoguelikePG {
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ### `Room.cs`
 
@@ -1093,7 +1093,7 @@ public class Room : MonoBehaviour {
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ### `RoomManager.cs`
 
@@ -1231,7 +1231,7 @@ public class RoomManager : MonoBehaviour {
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 ### `RPGUtil.cs`
 
@@ -1286,6 +1286,6 @@ namespace RoguelikePG
 }
 {% endhighlight %}
 
-[(to top)](/code-samples)
+[(to top)](#top)
 
 [Go to the Home Page]({{ '/' | absolute_url }})

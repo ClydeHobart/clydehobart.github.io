@@ -2,7 +2,7 @@
 layout: page
 title: About
 tagline: A little extra info about this Zeke Baker fellow
-permalink: /about.html
+permalink: /about
 ref: about
 order: 0
 ---
