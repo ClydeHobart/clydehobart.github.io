@@ -8,10 +8,10 @@ order: 0
 ---
 
 <div style="text-align:center">
-    <img src="/assets/about/Baker_Zeke_Headshot_16x9_small.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
+    <img src="/assets/about/ZekeBaker_Headshot_16x9_small.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
 </div>
 
-I'm currently a senior majoring in computer science and engineering at Dartmouth College, in Hanover, NH. I have a strong passion for video games, problem solving, and creative expression, so it's been my goal for the past 8 years to be a game programmer. My knack for learning and creative drive have helped me pick up a menagerie of programming skills, many of which can be leveraged for game development. If you want to learn more these skills specifically, check out my [resume](/assets/about/Baker_Zeke_Resume.pdf)!
+I'm currently a senior majoring in computer science and engineering at Dartmouth College, in Hanover, NH. I have a strong passion for video games, problem solving, and creative expression, so it's been my goal for the past 8 years to be a game programmer. My knack for learning and creative drive have helped me pick up a menagerie of programming skills, many of which can be leveraged for game development. If you want to learn more these skills specifically, check out my [resume](/assets/about/ZekeBaker_Resume.pdf)!
 
 ## Some fun facts about me, in no particular order:
 * In the photo above, I'm standing in front of Dartmouth's **Baker** Library (no relation).
