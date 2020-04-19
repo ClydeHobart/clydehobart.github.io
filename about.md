@@ -31,6 +31,6 @@ I'm currently a senior majoring in computer science and engineering at Dartmouth
 * *Saints Row 2*
 
 ## A brief history of "ClydeHobart"
-Around 2010, a friend and I were theorizing about a hypothetical situation where Justin Bieber had changed his name to "Justin Bieber" to aid his rise to stardom, and we were brainstorming some potential birth names, and "Clyde Hobart" was suggested. I latched on to the name, not for any particular affinity to Justin Bieber, but just since tweens are always looking for a "cool" new pseudonym/alias/username in this digital age that we live in, and thus ClydeHobart was born. Aside from being my GitHub username (hence "clydehobart.github.io"), it's also my username for a grand plethora of sites/apps/games.
+Around 2010, a friend and I were theorizing about a hypothetical situation where Justin Bieber had changed his name to "Justin Bieber" to aid his rise to stardom, and we were brainstorming some potential birth names, and "Clyde Hobart" was suggested. I latched on to the name, not for any particular affinity to Justin Bieber, but just since tweens are always looking for a "cool" new pseudonym/alias/username in this digital age that we live in. Thus, ClydeHobart was born. Aside from being my GitHub username (hence "clydehobart.github.io", the GitHub Pages home for this site), it's also my username for a grand plethora of sites/apps/games.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
