@@ -15,7 +15,8 @@ This was another project for my AR & VR development class. Using the Oculus Ques
         width="300px"/>
 </a></div>
 
-## Details:
+## Details
+
 * Framework: **Unity**
 * Languages: **C#**, **Python**
 * Hardware: **Oculus Quest**

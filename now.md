@@ -7,14 +7,10 @@ ref: now
 order: 2
 ---
 
-Hmm, what's the best way to describe what's going on in my life? As I imagine is the same case as anybody seeing this, I'm currently in quarantine at home in Franklin, WI, taking classes for my last term of my undergraduate program through Dartmouth College, based in Hanover, NH. This term I'm taking [an asynchronous class on the constitutional rights of women](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-32-03) and the second of two courses which constitute my [my culminating experience](http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-98-02) as a computer science experience. My team, with members working from each timezone of the continental US, is working on an asymmetrical 2-player, spy-themed, VR & mobile game, currently titled "SpyXR" (we recently pivoted from implementing AR as well).
-
-Normally on campus I participate in a variety of co-curricular activities, most of which revolve around singing or speaking Spanish, but now almost all of this has been reduced to just online chats once a week or so :worried: .
-
-While this is subject to change, as many projections into the near future are prone to nowadays, I'm currently set to be the Director's Assistant on the [Dartmouth Language Study Abroad Plus Program](https://guarini.dartmouth.edu/programs/spanish-lsa-cuzco) in (the northern hemisphere's) fall of this year. While this opportunity is a blessing, I'm cautious to get too excited over it given the current situation.
+COVID-19 quarantine feels pretty normalized now, strangely enough. I'm living back home in Wisconsin with my mom, but hopefully I'll be moving to the Andover, Massachusetts area some time in November or December, so that I'm ready to resume on-site work for my new job at Rockstar New England! My first day is tomorrow, so if somehow you come across this today, 2020-08-02, wish me luck! In my free time, since my Xbox One is still stuck at Dartmouth, I've been enjoying the 1.16 Nether Update for Minecraft and video chatting with friends.
 
 — Zeke Baker
-2020-04-06 19:24
+2020-08-02 13:39
 
 This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
 
