@@ -11,12 +11,12 @@ order: 0
     <img src="/assets/about/ZekeBaker_Headshot_16x9_small.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
 </div>
 
-I'm a 2020 graduate from Dartmouth College, with a major in computer science and engineering. I've recntly been hired at Rockstar New England as an Associate AI Programmer, which I'm both incredibly excited and thankful for. Doing something in game development has been a dream of mine for almost a decade now; it's quite special to finally have this opportunity, especially for a company whose games I truly enjoy. If you want to learn more about my skills and professional background, check out my [resume](/assets/about/ZekeBaker_Resume.pdf)!
+I'm a 2020 graduate from Dartmouth College, with a major in computer science and engineering. For the past two years I've been working for Rockstar New England as an AI Programmer (recently promoted from Associate AI Programmer). It has been a pleasure to learn and grow as a (game) programmer, amongst a talented, friendly cohort. Working in the games industry had been a dream of mine for almost a decade, and now it has been realized as a member of a company whose games I truly enjoy. If you want to learn more about my skills and professional background, check out my [resume](/assets/about/ZekeBaker_Resume.pdf)!
 
 ## Some fun facts about me, in no particular order
 
 * In the photo above, I'm standing in front of Dartmouth's **Baker** Library (no relation).
-* I love to sing, both choral and a cappella. At college, I was a member of the Glee Club and the music director of the Brovertones a cappella group.
+* I love to sing, both choral and a cappella. At college, I was a member of the Glee Club and the music director of the Brovertones a cappella group. Earlier in 2022, I joined a post-collegiate *a cappella* group, after almost 2 years of not having a group to sing with. It feels great to be back.
 * I love everything Star Wars (yes, including the sequel trilogy). I hope for one of my first two tattoos to be Star Wars related.
 * I'm fascinated with polyhedra, especially those related to *φ*, the golden ratio. I hope for the other of my first two tattoos to be related to this.
 * I'm a big fan of twisty puzzles (the family of puzzles to which the Rubik's Cube belongs).
