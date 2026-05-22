@@ -7,6 +7,10 @@ ref: now
 order: 2
 ---
 
+<div style="text-align:center">
+    <img src="/assets/now/family.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
+</div>
+
 I'm a proud resident of East Boston, Massachusetts, where I've lived for 103 weeks. I live with my effusely loving fiancée, Amily, and two cats: our *ancianito* Sushi "Goober"/"Gooby" with kidney and liver problems, and our lovable piece of garbage, Shadow the Hedgehog. I look forward to morning runs, walks to go get bubble tea by the harborwalk, and leaving (remote) work early on Tuesday evenings to make it to *a cappella* rehearsal, where I sing bass. I completed my second marathon at the start of the month, but I'm thankful the break from marathon training to focus on logistical, mental, and emotional preparation for our wedding this upcoming Halloween 🦇.
 
 — Zeke Baker

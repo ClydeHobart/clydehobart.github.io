@@ -8,7 +8,7 @@ order: 0
 ---
 
 <div style="text-align:center">
-    <img src="/assets/about/ZekeBaker_Headshot_16x9_small.jpg" alt="Photo of me" title="Photo of me" width="300px"/>
+    <img src="/assets/about/zeke_palladium.jpeg" alt="Photo of me" title="Photo of me" width="300px"/>
 </div>
 
 I'm senior software engineer coming up on my 6-year career anniversary this August. For the past three years I've been working as an Investment Systems Engineer for Bungie on our new live-service extraction shooter, *Marathon*, where I've noticeably grown in terms of code construction, architecture, and pragmatism. Before Bungie, I was a Combat AI Programmer working on *Grand Theft Auto VI* at Rockstar New England, which hired me as a fresh Computer Science and Engineering grad from Dartmouth College in 2020.
