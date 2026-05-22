@@ -7,10 +7,10 @@ ref: now
 order: 2
 ---
 
-As a resident of Malden, Massachusetts for over a year now, I now live close enough to commute to the office should I need to. That said, I am still working from home (for the time being), which is something I am quite thankful for. Outside of work, I have been participating in an a post-collegiate *a cappella* group, playing through the single-player story of *Grand Theft Auto V*, and trying my best to appreciate the autumnal wonder of New England with my girlfriend.
+I'm a proud resident of East Boston, Massachusetts, where I've lived for 103 weeks. I live with my effusely loving fiancée, Amily, and two cats: our *ancianito* Sushi "Goober"/"Gooby" with kidney and liver problems, and our lovable piece of garbage, Shadow the Hedgehog. I look forward to morning runs, walks to go get bubble tea by the harborwalk, and leaving (remote) work early on Tuesday evenings to make it to *a cappella* rehearsal, where I sing bass. I completed my second marathon at the start of the month, but I'm looking thankful to be able to take a break from marathon training to focus on logistical, mental, and emotional preparation for our wedding this upcoming Halloween 🦇.
 
 — Zeke Baker
-2022-10-21 19:41 EDT
+2026-05-21 19:57 EDT
 
 This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
 
